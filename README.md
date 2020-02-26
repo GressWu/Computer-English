@@ -1,7 +1,7 @@
 # Computer-English
 编程中常见的中英对照
 ***
-[toc]
+[[_TOC_]]
 ## A
 align 对齐 
 ## B
